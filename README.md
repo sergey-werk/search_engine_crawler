@@ -1,4 +1,6 @@
 # Search Engine Crawler
+`docker pull sergeywerk/search_engine_crawler:latest` ![](https://github.com/sergey-werk/search_engine_crawler/workflows/Docker/badge.svg)
+
 
 Поисковый бот для сбора текстовой информации с веб-страниц и ссылок.
 
